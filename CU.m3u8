@@ -1,0 +1,195 @@
+#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml"
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.top/logo/CCTV1.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV1
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSE%2FHp4cqBGlhNpQ3LsbJjcxit9iR6DrmD7s%2B8tb4JRdSy
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.top/logo/CCTV1.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV1
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Shhj6%2Bx0N6XQV%2BTZ5Ir58z%2FmqFNUgNeX0N9CHRdjkxcA
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV2" tvg-logo="https://livecdn.zbds.top/logo/CCTV2.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV2
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-HQ.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSE%2FIn57bOqALGFs2UWIs3XzDfMbI%2BUHL%2BpuhL7kZUdfyj
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV2" tvg-logo="https://livecdn.zbds.top/logo/CCTV2.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV2
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SvTwpGYwwdTnk6Ua4INwUNVDfCZIhGWlMpBO3r4%2FeEWk
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV3" tvg-logo="https://livecdn.zbds.top/logo/CCTV3.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV3
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-3-HQ.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSE%2F8r%2BDhbB%2B%2FgPyWUQ1oUQi%2Be1wgwpIaV0M2zxBiZQ%2Bgs
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV3" tvg-logo="https://livecdn.zbds.top/logo/CCTV3.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV3
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SgqgOu7HqcnTmLvHHH9OdkfAhSLyqB1ZgmMcY2pZ%2FnOb
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV4" tvg-logo="https://livecdn.zbds.top/logo/CCTV4.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV4
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-4-HQ.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSE%2BvBBPp8MiIRVjj5LF906NflHOVl5d9Rpxy3fbaVx0TN
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV4" tvg-logo="https://livecdn.zbds.top/logo/CCTV4.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV4
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sp%2B2EIVt6%2FnJAyhsjbuJuZKg7ETNhW92hkrZwd77E6Iz
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV5" tvg-logo="https://livecdn.zbds.top/logo/CCTV5.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV5
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Ss%2BabVAuYsy%2FZUN8sq9Mui54rchTv9%2BIRy%2BByC39pZ3v
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV6" tvg-logo="https://livecdn.zbds.top/logo/CCTV6.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV6
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-6-HQ.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSE%2BvB8jsWAe8BZBEX57wYHYert%2FWhGTQ4cIbFK9j8rCSU
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV6" tvg-logo="https://livecdn.zbds.top/logo/CCTV6.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV6
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9StWETEWWTujl5tT30eE1ER4I8zP%2BurxZGvkVUCBQr3Wo
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV7" tvg-logo="https://livecdn.zbds.top/logo/CCTV7.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV7
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-7-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SncR45O85wfH5EVOWYAKEZ%2BXPywDfCUdlSxB6hrkgTW%2F
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV8" tvg-logo="https://livecdn.zbds.top/logo/CCTV8.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-8-HQ.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSEzB9SogJHHmuQJbT8vEKdQzMd2Or39UL9M85lOIylNmf
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV8" tvg-logo="https://livecdn.zbds.top/logo/CCTV8.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SpNQo7n4tPx0gBs5Ut0kUbpzy4KdEbiQqXg4cTwIf3%2B4
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV9" tvg-logo="https://livecdn.zbds.top/logo/CCTV9.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV9
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-9-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9So2H%2BOxc4QJ5GwWzGwRp3hfsv5zo8wRslqJ6vA84AHA%2B
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.top/logo/CCTV10.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV10
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-10-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9ShD76M5563d32%2B4M3ZvKDu8AGDktbyHWznnrJ4enWNT0
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV11" tvg-logo="https://livecdn.zbds.top/logo/CCTV11.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV11
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-11-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SnRb6kIQ8sW1i%2FITI6R0%2BF1f4rBJuGcjqGyMw3O5YU0x
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV12" tvg-logo="https://livecdn.zbds.top/logo/CCTV12.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV12
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-12-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Si5NeAyUYdMjBuNTrA7kR5belq3U11khiRn5EzyQwiEe
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV13" tvg-logo="https://livecdn.zbds.top/logo/CCTV13.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV13
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-13-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9StYIyx80EUh0g4KLWWiVzKd6K46hwRnVOOdP%2BReyLaXG
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV14" tvg-logo="https://livecdn.zbds.top/logo/CCTV14.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV14
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-14-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SlnHLMqm%2BSWqVjnu361XiXXqa2j6ogKB1Nc2LSwTFb4p
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV15" tvg-logo="https://livecdn.zbds.top/logo/CCTV15.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV15
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-15-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SgbtJbNyyK129GlPJlCj%2FP093AdMuX38Il2UM4RmCNSH
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV16" tvg-logo="https://livecdn.zbds.top/logo/CCTV16.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV16
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-HQ.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSE%2B53mqgprQEfOdwOfe%2BxPIbKPEKRql2w%2BQRGnUMuHvR6
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV16" tvg-logo="https://livecdn.zbds.top/logo/CCTV16.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV16
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SqE1QZemd1IocZlOWvZ4lkJS6gYHhVCEByt4n4vKwJ4v
+#EXTINF:-1 group-title="中央频道" tvg-name="CCTV17" tvg-logo="https://livecdn.zbds.top/logo/CCTV17.png" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV17
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-17-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sr30Ana1I1MrealIg8GyDHWrmks93mJ9hj7a7HrvS8Z7
+#EXTINF:-1 group-title="中央频道" tvg-name="CETV1" tvg-logo="https://livecdn.zbds.top/logo/CETV1.png" epg-url="https://epg.zsdc.eu.org/t.xml",CETV1
+http://122.96.52.98:8006/JS_CUCC/G_CETV-1.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SiY365qp4f4Lhe9X%2FHJOa75fWcc%2BZxOTXWVea3iauo2C
+#EXTINF:-1 group-title="中央频道" tvg-name="CETV2" tvg-logo="https://livecdn.zbds.top/logo/CETV2.png" epg-url="https://epg.zsdc.eu.org/t.xml",CETV2
+http://122.96.52.98:8006/JS_CUCC/G_CETV-2.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SkjfmhKcc%2B%2BCd2EwQUbY6cC2N%2Boq8ipyV2wZtQJNXarW
+#EXTINF:-1 group-title="中央频道" tvg-name="CETV3" tvg-logo="https://livecdn.zbds.top/logo/CETV3.png" epg-url="https://epg.zsdc.eu.org/t.xml",CETV3
+http://122.96.52.98:8006/JS_CUCC/G_CETV-3.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9ShuCC4qz3liyV%2BArJWF17cprhxMycq8FKEFn7fq5kfQY
+#EXTINF:-1 group-title="中央频道" tvg-name="CETV4" tvg-logo="https://livecdn.zbds.top/logo/CETV4.png" epg-url="https://epg.zsdc.eu.org/t.xml",CETV4
+http://122.96.52.98:8006/JS_CUCC/G_CETV-4.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SvBxP2uCZQO7FAyTqpmhktNS7rj5z0ROX5PmUXQ2n7nk
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.top/logo/江苏卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",江苏卫视
+http://122.96.52.98:8006/JS_CUCC/G_JIANGSU-HD.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSEwDKcyHR%2F5Pm9J6t2Eft4CF8T%2B%2FTOWQbXeq1xCNtSCcm
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.top/logo/江苏卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",江苏卫视
+http://122.96.52.98:8006/JS_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SjDMSVKZoezy2Nq1rpRNZoBwIPz66EtNlOhB2%2BqV6gde
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.top/logo/江苏卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",江苏卫视
+http://122.96.52.98:8006/JS_CUCC/JSWS-HD.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSE2FY4AXCuVGf54OgOWDHB3OjvWOWFeLTXrFmc%2BHmUZoh
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏城市" tvg-logo="https://livecdn.zbds.top/logo/江苏城市.png" epg-url="https://epg.zsdc.eu.org/t.xml",江苏城市
+http://122.96.52.98:8006/JS_CUCC/G_JSCS.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SqYWHXDVm7eSK%2FertQdev6bEl4iMNl0LfXN60kch0at8
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏教育" tvg-logo="https://livecdn.zbds.top/logo/江苏教育.png" epg-url="https://epg.zsdc.eu.org/t.xml",江苏教育
+http://122.96.52.98:8006/JS_CUCC/G_JSJY.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqd1zrDCpHFbnW5Ajs7TZ%2BE%2FEl4iMNl0LfXN60kch0at8
+#EXTINF:-1 group-title="卫视频道" tvg-name="浙江卫视" tvg-logo="https://livecdn.zbds.top/logo/浙江卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",浙江卫视
+http://122.96.52.98:8006/JS_CUCC/ZJWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SmbnWubpFooGs2nNK51ZfPh0x0CWlmwD8Ce8DSIcqu14
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖南卫视" tvg-logo="https://livecdn.zbds.top/logo/湖南卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",湖南卫视
+http://122.96.52.98:8006/JS_CUCC/HNWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SjmfxxRjy5NcE9D8Nfh5fQsqHG9Gv90EQIMi0q3z0fZ%2F
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖南卫视" tvg-logo="https://livecdn.zbds.top/logo/湖南卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",湖南卫视
+http://122.96.52.98:8006/JS_CUCC/HNWS-HD.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqT9qUmqRoYDFaiEZ05zVXKCAbs%2ByF7b29hFRLV23f6Vj
+#EXTINF:-1 group-title="卫视频道" tvg-name="东方卫视" tvg-logo="https://livecdn.zbds.top/logo/东方卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",东方卫视
+http://122.96.52.98:8006/JS_CUCC/DFWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SjGF24%2BdBbI9VA8B6qmieOYOP7fmtYNYadKMB6wfdw%2B1
+#EXTINF:-1 group-title="卫视频道" tvg-name="东方卫视" tvg-logo="https://livecdn.zbds.top/logo/东方卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",东方卫视
+http://122.96.52.98:8006/JS_CUCC/G_DONGFANG-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqauOD%2FF5rVZ9ggpQ6fpB0WGOZy5ypSEG6%2BLx4QnA5hFe
+#EXTINF:-1 group-title="卫视频道" tvg-name="东方卫视" tvg-logo="https://livecdn.zbds.top/logo/东方卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",东方卫视
+http://122.96.52.98:8006/JS_CUCC/DFWS-HD.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqYqXDSqn9g8uJoT7P4Eg7Zeb81ufElMrCkVylhMcfT%2BR
+#EXTINF:-1 group-title="卫视频道" tvg-name="北京卫视" tvg-logo="https://livecdn.zbds.top/logo/北京卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",北京卫视
+http://122.96.52.98:8006/JS_CUCC/BTV-1.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSE5woOXt6eTia4%2B246%2FLAtUDhCsZiWNVb%2B9ug3Ov%2B5E3U
+#EXTINF:-1 group-title="卫视频道" tvg-name="广东卫视" tvg-logo="https://livecdn.zbds.top/logo/广东卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",广东卫视
+http://122.96.52.98:8006/JS_CUCC/GDWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SldBkXTBKzz%2BUZ99WaLXf6yjvWOWFeLTXrFmc%2BHmUZoh
+#EXTINF:-1 group-title="卫视频道" tvg-name="深圳卫视" tvg-logo="https://livecdn.zbds.top/logo/深圳卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",深圳卫视
+http://122.96.52.98:8006/JS_CUCC/SZWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SoTG1LiDsoU3WreJsRgjuP40G6%2BPpHs%2FzqZVkQ8X9e8V
+#EXTINF:-1 group-title="卫视频道" tvg-name="深圳卫视" tvg-logo="https://livecdn.zbds.top/logo/深圳卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",深圳卫视
+http://122.96.52.98:8006/JS_CUCC/G_SHENZHEN-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqfZLFHKtISZ64EC8%2FM6myNweXhLxwQ2J1FbkDiSKbao6
+#EXTINF:-1 group-title="卫视频道" tvg-name="安徽卫视" tvg-logo="https://livecdn.zbds.top/logo/安徽卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",安徽卫视
+http://122.96.52.98:8006/JS_CUCC/G_ANHUI-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9So029a3%2FwnEWO5mZF4JIQo9DRxKTnwRdrwHyST1lOZnx
+#EXTINF:-1 group-title="卫视频道" tvg-name="黑龙江卫视" tvg-logo="https://livecdn.zbds.top/logo/黑龙江卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",黑龙江卫视
+http://122.96.52.98:8006/JS_CUCC/HLJWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SrjK2EBfOjpKriSgNAli9uZx%2F1RHl35BXjR1XDh5W1hn
+#EXTINF:-1 group-title="卫视频道" tvg-name="黑龙江卫视" tvg-logo="https://livecdn.zbds.top/logo/黑龙江卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",黑龙江卫视
+http://122.96.52.98:8006/JS_CUCC/HLJWS-HD.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqTH59aCQkWdh7laFBYGOIJ6M1TdUzp3%2B8CbZaSdTB8L1
+#EXTINF:-1 group-title="卫视频道" tvg-name="山东卫视" tvg-logo="https://livecdn.zbds.top/logo/山东卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",山东卫视
+http://122.96.52.98:8006/JS_CUCC/G_SHANDONG-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqRzmA3bkY8uR2T6FfCfBDoh0ukfA9WxaTD%2FCPzB4E7kt
+#EXTINF:-1 group-title="卫视频道" tvg-name="辽宁卫视" tvg-logo="https://livecdn.zbds.top/logo/辽宁卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",辽宁卫视
+http://122.96.52.98:8006/JS_CUCC/G_LIAONING-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqS6sZkgRoUiBEDwKyjhRsS9pKuYkc4vZ1qj%2BUSYGfUw%2F
+#EXTINF:-1 group-title="卫视频道" tvg-name="辽宁卫视" tvg-logo="https://livecdn.zbds.top/logo/辽宁卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",辽宁卫视
+http://122.96.52.98:8006/JS_CUCC/LNWS.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SkwjrieRzGOL3kzGCOUyGlqh6T6Tk%2FxC%2FR7C%2FVai0Y0n
+#EXTINF:-1 group-title="卫视频道" tvg-name="辽宁卫视" tvg-logo="https://livecdn.zbds.top/logo/辽宁卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",辽宁卫视
+http://122.96.52.98:8006/JS_CUCC/LNWS.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqXJ3Zdx9ww8CR8le8b1UnwKh6T6Tk%2FxC%2FR7%2FVai0Y0n
+#EXTINF:-1 group-title="卫视频道" tvg-name="广西卫视" tvg-logo="https://livecdn.zbds.top/logo/广西卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",广西卫视
+http://122.96.52.98:8006/JS_CUCC/GXWS.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SqrkH1Z%2FouBMaHIU4T3aITCh6T6Tk%2FxC%2FR7C%2FVai0Y0n
+#EXTINF:-1 group-title="卫视频道" tvg-name="广西卫视" tvg-logo="https://livecdn.zbds.top/logo/广西卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",广西卫视
+http://122.96.52.98:8006/JS_CUCC/GXWS.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqQwuYobtmpzm%2BG977HjJEyih6T6Tk%2FxC%2FR7C%2FVai0Y0n
+#EXTINF:-1 group-title="卫视频道" tvg-name="海南卫视" tvg-logo="https://livecdn.zbds.top/logo/海南卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",海南卫视
+http://122.96.52.98:8006/JS_CUCC/LYWS.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqcJNFIBxHTy86lKfRexerzWh6T6Tk%2FxC%2FR7C%2FVai0Y0n
+#EXTINF:-1 group-title="卫视频道" tvg-name="重庆卫视" tvg-logo="https://livecdn.zbds.top/logo/重庆卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",重庆卫视
+http://122.96.52.98:8006/JS_CUCC/G_CHONGQING.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSE5JSPS9geiEmQ%2Fdp%2F6Ni%2BrG%2FSD0NnkkIltevrtW8veTn
+#EXTINF:-1 group-title="卫视频道" tvg-name="重庆卫视" tvg-logo="https://livecdn.zbds.top/logo/重庆卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",重庆卫视
+http://122.96.52.98:8006/JS_CUCC/G_CHONGQING-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqZFqHW6qVcpEGyFqe3ywDRxMJtFqK1mumYK%2BnPy0QeT0
+#EXTINF:-1 group-title="卫视频道" tvg-name="四川卫视" tvg-logo="https://livecdn.zbds.top/logo/四川卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",四川卫视
+http://122.96.52.98:8006/JS_CUCC/G_SICHUAN-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqfGElR%2BzxQCU5zI%2BocmLhJIh0sVif%2FFnJHhkes3HGZkg
+#EXTINF:-1 group-title="卫视频道" tvg-name="四川卫视" tvg-logo="https://livecdn.zbds.top/logo/四川卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",四川卫视
+http://122.96.52.98:8006/JS_CUCC/SCWS.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqRqx%2BR%2BnW4LbS6LEZMWdmR6h6T6Tk%2FxC%2FR7C%2FVai0Y0n
+#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视" tvg-logo="https://livecdn.zbds.top/logo/河南卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",河南卫视
+http://122.96.52.98:8006/JS_CUCC/HENAN.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqUa3ECUrElvOVDR%2BWROWEtfhCsZiWNVb%2B9ug3Ov%2B5E3U
+#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视" tvg-logo="https://livecdn.zbds.top/logo/河南卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",河南卫视
+http://122.96.52.98:8006/JS_CUCC/G_HENAN-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqYhMMdYGS3%2BWnSCOj3jHkf6U6ZeTIwphMiqqEWVIssb2
+#EXTINF:-1 group-title="卫视频道" tvg-name="天津卫视" tvg-logo="https://livecdn.zbds.top/logo/天津卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",天津卫视
+http://122.96.52.98:8006/JS_CUCC/G_TIANJIN-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqQAogWy2ujKRUnxN2QakGrujloZ1%2BJLdbkSMDkaEqlDb
+#EXTINF:-1 group-title="卫视频道" tvg-name="天津卫视" tvg-logo="https://livecdn.zbds.top/logo/天津卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",天津卫视
+http://122.96.52.98:8006/JS_CUCC/TJWS.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqS6r13SuqCkf1dVo6%2F5IvUuh6T6Tk%2FxC%2FR7C%2FVai0Y0n
+#EXTINF:-1 group-title="卫视频道" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.top/logo/东南卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",东南卫视
+http://122.96.52.98:8006/JS_CUCC/DNWS.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqTNZRfvT8kaY2s0v8HJcfQ6h6T6Tk%2FxC%2FR7C%2FVai0Y0n
+#EXTINF:-1 group-title="卫视频道" tvg-name="江西卫视" tvg-logo="https://livecdn.zbds.top/logo/江西卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",江西卫视
+http://122.96.52.98:8006/JS_CUCC/JXWS.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqesu4Y9OAgicJ5hyF6saHMih6T6Tk%2FxC%2FR7C%2FVai0Y0n
+#EXTINF:-1 group-title="卫视频道" tvg-name="江西卫视" tvg-logo="https://livecdn.zbds.top/logo/江西卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",江西卫视
+http://122.96.52.98:8006/JS_CUCC/G_JIANGXI-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqVvOhW%2BEXQQv15AnMlPq6XU4UFMzKg9vTwb3fexsp3y2
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖北卫视" tvg-logo="https://livecdn.zbds.top/logo/湖北卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",湖北卫视
+http://122.96.52.98:8006/JS_CUCC/G_HUBEI.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSE7d5sgdjO9nd%2FRy42aKNTr4OP7fmtYNYadKMB6wfdw%2B1
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖北卫视" tvg-logo="https://livecdn.zbds.top/logo/湖北卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",湖北卫视
+http://122.96.52.98:8006/JS_CUCC/G_HUBEI-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqZO9RG2uDe%2BVnT92z2QZhk8tYV7H30Qu2DECTeiTwMzT
+#EXTINF:-1 group-title="卫视频道" tvg-name="吉林卫视" tvg-logo="https://livecdn.zbds.top/logo/吉林卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",吉林卫视
+http://122.96.52.98:8006/JS_CUCC/G_JILIN.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSE1AXm0vGhKq9SMZe3nlxWWAqHG9Gv90EQIMi0q3z0fZ%2F
+#EXTINF:-1 group-title="卫视频道" tvg-name="吉林卫视" tvg-logo="https://livecdn.zbds.top/logo/吉林卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",吉林卫视
+http://122.96.52.98:8006/JS_CUCC/G_JILIN-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqUqIAeit6tw%2FwXXlmIxs%2F24sDQCgKnvHKHzUJ0TvcnFW
+#EXTINF:-1 group-title="卫视频道" tvg-name="山西卫视" tvg-logo="https://livecdn.zbds.top/logo/山西卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",山西卫视
+http://122.96.52.98:8006/JS_CUCC/SXWS.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqQlDHkY%2F%2FyppOhJJvEQCrEih6T6Tk%2FxC%2FR7C%2FVai0Y0n
+#EXTINF:-1 group-title="卫视频道" tvg-name="贵州卫视" tvg-logo="https://livecdn.zbds.top/logo/贵州卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",贵州卫视
+http://122.96.52.98:8006/JS_CUCC/G_GUIZHOU.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSEyrtAqbVxfXh6kkCsWScfoxukWfifL8M%2B6hS2P39XQsn
+#EXTINF:-1 group-title="卫视频道" tvg-name="贵州卫视" tvg-logo="https://livecdn.zbds.top/logo/贵州卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",贵州卫视
+http://122.96.52.98:8006/JS_CUCC/G_GUIZHOU-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqcbhhtaW7uww1Ae6Ga8I8WAqDBE%2FQCzgCvTjmIKPuoZt
+#EXTINF:-1 group-title="卫视频道" tvg-name="青海卫视" tvg-logo="https://livecdn.zbds.top/logo/青海卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",青海卫视
+http://122.96.52.98:8006/JS_CUCC/G_QINGHAI.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqbdGM1aJzQAVA%2FkLMQvGUODb1a%2BDFljuY%2Bu5f%2FihDJ3y
+#EXTINF:-1 group-title="卫视频道" tvg-name="内蒙卫视" tvg-logo="https://livecdn.zbds.top/logo/内蒙卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",内蒙卫视
+http://122.96.52.98:8006/JS_CUCC/G_NEIMENGGU.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqanPh8ul5SuR%2FsV005Y5e8NrVbCcGc5vtGZE2UeCSpdr
+#EXTINF:-1 group-title="卫视频道" tvg-name="云南卫视" tvg-logo="https://livecdn.zbds.top/logo/云南卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",云南卫视
+http://122.96.52.98:8006/JS_CUCC/G_YUNNAN.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqR6%2BnGtdBmjwCGFb6weeZPUyAWvLNYi2IpNiJM2%2BQMlg
+#EXTINF:-1 group-title="卫视频道" tvg-name="河北卫视" tvg-logo="https://livecdn.zbds.top/logo/河北卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",河北卫视
+http://122.96.52.98:8006/JS_CUCC/G_HEBEI-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqf58bSSc0HB%2B74c0M%2Fj80uEZ4IQ%2FJ7RNXgaNDCCtx6Au
+#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视" tvg-logo="https://livecdn.zbds.top/logo/河南卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",河南卫视
+http://122.96.52.98:8006/JS_CUCC/G_HENAN-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqYhMMdYGS3%2BWnSCOj3jHkf6U6ZeTIwphMiqqEWVIssb2
+#EXTINF:-1 group-title="卫视频道" tvg-name="宁夏卫视" tvg-logo="https://livecdn.zbds.top/logo/宁夏卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",宁夏卫视
+http://122.96.52.98:8006/JS_CUCC/G_NINGXIA.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqWSwAcz2EjshlKDrLRf3uKgvblEK4rjoEqF1Ffp%2BuFVe
+#EXTINF:-1 group-title="卫视频道" tvg-name="江西卫视" tvg-logo="https://livecdn.zbds.top/logo/江西卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",江西卫视
+http://122.96.52.98:8006/JS_CUCC/G_JIANGXI-CQ.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqVvOhW%2BEXQQv15AnMlPq6XU4UFMzKg9vTwb3fexsp3y2
+#EXTINF:-1 group-title="卫视频道" tvg-name="新疆卫视" tvg-logo="https://livecdn.zbds.top/logo/新疆卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",新疆卫视
+http://122.96.52.98:8006/JS_CUCC/G_XINJIANG.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqYIn%2FpouEwlkFxExYj8agUf5XWNB78p%2FsVBhTtiKL5Ls
+#EXTINF:-1 group-title="卫视频道" tvg-name="甘肃卫视" tvg-logo="https://livecdn.zbds.top/logo/甘肃卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",甘肃卫视
+http://122.96.52.98:8006/JS_CUCC/G_GANSU.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqXqJwtZQJjxUqMLIBWCdMp%2BkVSVEVWuhq%2FWplaQ7dqqa
+#EXTINF:-1 group-title="卫视频道" tvg-name="陕西卫视" tvg-logo="https://livecdn.zbds.top/logo/陕西卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",陕西卫视
+http://122.96.52.98:8006/JS_CUCC/G_SHANXI.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqfPJOraJzcMAXJmgRTQrm0KALR60ZT01W8by0xOkJKQO
+#EXTINF:-1 group-title="卫视频道" tvg-name="西藏卫视" tvg-logo="https://livecdn.zbds.top/logo/西藏卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",西藏卫视
+http://122.96.52.98:8006/JS_CUCC/G_XIZANG.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqS9An9PHh%2Fo6Ma9wad5i8ZgKo7S6On8kpSSPazxmfNOE
+#EXTINF:-1 group-title="卫视频道" tvg-name="大湾卫视" tvg-logo="https://livecdn.zbds.top/logo/大湾卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",大湾卫视
+http://122.96.52.98:8006/JS_CUCC/G_NANFANG.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqTTB8vd7vLc8ksSXqZ6HF4NZVBeIVNbOJb0NgPLorHhl
+#EXTINF:-1 group-title="卫视频道" tvg-name="厦门卫视" tvg-logo="https://livecdn.zbds.top/logo/厦门卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",厦门卫视
+http://122.96.52.98:8006/JS_CUCC/G_XIAMEN.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqdgcvNR1KH2bv24Hk3oQTt5AWJk1%2FRDTH9rQVLxMRtsk
+#EXTINF:-1 group-title="卫视频道" tvg-name="兵团卫视" tvg-logo="https://livecdn.zbds.top/logo/兵团卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",兵团卫视
+http://122.96.52.98:8006/JS_CUCC/G_BINGTUAN.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqbIrIw5NeMv98UaE%2BSEy8b9iDLoDqtZIZcGJAaPmIk%2B0
+#EXTINF:-1 group-title="卫视频道" tvg-name="康巴卫视" tvg-logo="https://livecdn.zbds.top/logo/康巴卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",康巴卫视
+http://122.96.52.98:8006/JS_CUCC/G_KANGBA.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqUYL%2FZeSEfDbqrMAaSleq9XF5sJ3QTCEnNeF2sIGkQBZ
+#EXTINF:-1 group-title="卫视频道" tvg-name="农林卫视" tvg-logo="https://livecdn.zbds.top/logo/农林卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",农林卫视
+http://122.96.52.98:8006/JS_CUCC/G_NONGLIN.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqfZgKlkShSsCdb6cs1AsUdAAz6jtovNnMsdYQ%2BlQSDgi
+#EXTINF:-1 group-title="卫视频道" tvg-name="延边卫视" tvg-logo="https://livecdn.zbds.top/logo/延边卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",延边卫视
+http://122.96.52.98:8006/JS_CUCC/G_YANBIAN.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqRNgAnvQNvbH9FahBx4H4IHhiiPPvdulj7z6u%2BKJ2yqs
+#EXTINF:-1 group-title="卫视频道" tvg-name="安多卫视" tvg-logo="https://livecdn.zbds.top/logo/安多卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",安多卫视
+http://122.96.52.98:8006/JS_CUCC/G_ANDUO.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqcMm2FXqoyLgNxykZ2kRkpOjvWOWFeLTXrFmc%2BHmUZoh
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏影视" tvg-logo="https://livecdn.zbds.top/logo/江苏影视.png" epg-url="https://epg.zsdc.eu.org/t.xml",江苏影视
+http://122.96.52.98:8006/JS_CUCC/G_JSYS.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqTt1siABRCTd6ef1AXeIXHvEl4iMNl0LfXN60kch0at8
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏体育" tvg-logo="https://livecdn.zbds.top/logo/江苏体育.png" epg-url="https://epg.zsdc.eu.org/t.xml",江苏体育
+http://122.96.52.98:8006/JS_CUCC/G_JSTY.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqVtzK%2FXXi1o1IflLlM%2BsQmfEl4iMNl0LfXN60kch0at8
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏综艺" tvg-logo="https://livecdn.zbds.top/logo/江苏综艺.png" epg-url="https://epg.zsdc.eu.org/t.xml",江苏综艺
+http://122.96.52.98:8006/JS_CUCC/G_JSZY.m3u8?Authinfo=NDp9yqRUVDyobVFtMonaqRcb6zPdnU1JR9ARQ7FmxRrEl4iMNl0LfXN60kch0at8
+#EXTINF:-1 group-title="卫视频道" tvg-name="卡酷少儿" tvg-logo="https://livecdn.zbds.top/logo/卡酷少儿.png" epg-url="https://epg.zsdc.eu.org/t.xml",卡酷少儿
+http://122.96.52.98:8006/JS_CUCC/G_KAKU.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SmyW%2FyG%2BoPdzEOGvrYea%2BcvEl4iMNl0LfXN60kch0at8
+#EXTINF:-1 group-title="卫视频道" tvg-name="金鹰卡通" tvg-logo="https://livecdn.zbds.top/logo/金鹰卡通.png" epg-url="https://epg.zsdc.eu.org/t.xml",金鹰卡通
+http://122.96.52.98:8006/JS_CUCC/G_JINYING.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9ShGpdPgKWSL05F6OUAVA1xi60mJxjf4iyP3nFi4GrSxo
+#EXTINF:-1 group-title="卫视频道" tvg-name="嘉佳卡通" tvg-logo="https://livecdn.zbds.top/logo/嘉佳卡通.png" epg-url="https://epg.zsdc.eu.org/t.xml",嘉佳卡通
+http://122.96.52.98:8006/JS_CUCC/G_JIAJIA.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sk811fqeImdq%2FJ607sQJijscK2WkqyOSA1%2F7o3Hv8jVu
+#EXTINF:-1 group-title="卫视频道" tvg-name="优漫卡通" tvg-logo="https://livecdn.zbds.top/logo/优漫卡通.png" epg-url="https://epg.zsdc.eu.org/t.xml",优漫卡通
+http://122.96.52.98:8006/JS_CUCC/G_YOUMAN.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sl%2FjBQ9Y6zw3fu%2BZfRUKffZ%2BxkfHAlKIP5h48j8b%2FoXk
+#EXTINF:-1 group-title="卫视频道" tvg-name="哈哈炫动" tvg-logo="https://livecdn.zbds.top/logo/哈哈炫动.png" epg-url="https://epg.zsdc.eu.org/t.xml",哈哈炫动
+http://122.96.52.98:8006/JS_CUCC/G_XUANDONG.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SicITEeFi95yCg4v390j79m%2BA3sWcZsDlFBIeqQpykCO
