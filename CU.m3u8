@@ -55,6 +55,8 @@ http://122.96.52.98:8006/JS_CUCC/G_CETV-2.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Skjf
 http://122.96.52.98:8006/JS_CUCC/G_CETV-3.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9ShuCC4qz3liyV%2BArJWF17cprhxMycq8FKEFn7fq5kfQY
 #EXTINF:-1 group-title="中央频道" tvg-name="CETV4" tvg-logo="https://livecdn.zbds.top/logo/CETV4.png" epg-url="https://epg.zsdc.eu.org/t.xml",CETV4
 http://122.96.52.98:8006/JS_CUCC/G_CETV-4.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SvBxP2uCZQO7FAyTqpmhktNS7rj5z0ROX5PmUXQ2n7nk
+#EXTINF:-1 group-title="卫视频道" tvg-name="沭阳电视台"
+http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.top/logo/江苏卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",江苏卫视
 http://122.96.52.98:8006/JS_CUCC/G_JIANGSU-HD.m3u8?Authinfo=vqcntUDxmFbM9e91TdtSEwDKcyHR%2F5Pm9J6t2Eft4CF8T%2B%2FTOWQbXeq1xCNtSCcm
 #EXTINF:-1 group-title="卫视频道" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.top/logo/江苏卫视.png" epg-url="https://epg.zsdc.eu.org/t.xml",江苏卫视
@@ -192,4 +194,5 @@ http://122.96.52.98:8006/JS_CUCC/G_JIAJIA.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sk81
 #EXTINF:-1 group-title="卫视频道" tvg-name="优漫卡通" tvg-logo="https://livecdn.zbds.top/logo/优漫卡通.png" epg-url="https://epg.zsdc.eu.org/t.xml",优漫卡通
 http://122.96.52.98:8006/JS_CUCC/G_YOUMAN.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sl%2FjBQ9Y6zw3fu%2BZfRUKffZ%2BxkfHAlKIP5h48j8b%2FoXk
 #EXTINF:-1 group-title="卫视频道" tvg-name="哈哈炫动" tvg-logo="https://livecdn.zbds.top/logo/哈哈炫动.png" epg-url="https://epg.zsdc.eu.org/t.xml",哈哈炫动
+
 http://122.96.52.98:8006/JS_CUCC/G_XUANDONG.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SicITEeFi95yCg4v390j79m%2BA3sWcZsDlFBIeqQpykCO
