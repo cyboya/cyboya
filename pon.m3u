@@ -169,8 +169,6 @@ http://112.86.202.37:8112/JSBC_iptv/C10000216@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000426@JSBC
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://livecdn.zbds.top/logo/山东教育卫视.png" group-title="卫视频道",山东教育卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000434@JSBC
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://livecdn.zbds.top/logo/都市剧场.png" group-title="上海节目",都市剧场
-http://112.86.202.37:8112/JSBC_iptv/C10000424@JSBC
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://livecdn.zbds.top/logo/江苏新闻.png" group-title="江苏节目",江苏新闻
 http://112.86.202.37:8112/JSBC_iptv/C10000440@JSBC
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://livecdn.zbds.top/logo/江苏新闻.png" group-title="江苏节目",江苏新闻
@@ -199,3 +197,5 @@ http://112.86.202.37:8112/JSBC_iptv/C10000431@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000428@JSBC
 #EXTINF:-1 tvg-name="盐城" tvg-logo="https://livecdn.zbds.top/logo/盐城.png" group-title="特色频道",盐城
 http://122.97.211.133:8112/JSBC_iptv/C10000234@JSBC
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://livecdn.zbds.top/logo/都市剧场.png" group-title="特色频道",都市剧场
+http://112.86.202.37:8112/JSBC_iptv/C10000424@JSBC
