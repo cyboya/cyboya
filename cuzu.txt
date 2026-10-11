@@ -201,7 +201,7 @@ rtsp://153.36.255.37:554/JSBC_iptv/C10000424@JSBC
 rtsp://153.36.255.37:554/JSBC_iptv/C10000428@JSBC
 #EXTINF:-1 group-title="",睛彩广场舞
 rtsp://153.36.255.37:554/JSBC_iptv/C10000429@JSBC
-#EXTINF:-1 group-title="",睛彩蓝球
+#EXTINF:-1 group-title="",睛彩篮球
 rtsp://153.36.255.37:554/JSBC_iptv/C10000431@JSBC
 #EXTINF:-1 group-title="",睛彩竞技
 rtsp://153.36.255.37:554/JSBC_iptv/C10000433@JSBC
