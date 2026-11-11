@@ -531,15 +531,3 @@ http://122.97.211.133:8112/JSBC_iptv/C10000234@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000424@JSBC
 #线路2 · [高清源·1080P-RTSP] 都市剧场HD · 153.36.255.37:554 · C10000424@JSBC
 rtsp://153.36.255.37:554/JSBC_iptv/C10000424@JSBC
-#EXTINF:-1 tvg-id="29" tvg-name="好享购物" group-title="特色频道",好享购物
-#线路1 · [高清源·1080P-RTSP] 好享购物HD · 153.36.255.37:554 · C10000230@JSBC
-rtsp://153.36.255.37:554/JSBC_iptv/C10000230@JSBC
-#EXTINF:-1 tvg-id="32" tvg-name="财富天下" group-title="特色频道",财富天下
-#线路1 · [高清源·1080P-RTSP] 财富天下HD · 153.36.255.37:554 · C10000467@JSBC
-rtsp://153.36.255.37:554/JSBC_iptv/C10000467@JSBC
-#EXTINF:-1 tvg-id="212" tvg-name="东方财经" group-title="特色频道",东方财经
-#线路1 · [高清源·1080P-RTSP] 东方财经HD · 153.36.255.37:554 · C10000420@JSBC
-rtsp://153.36.255.37:554/JSBC_iptv/C10000420@JSBC
-#EXTINF:-1 tvg-id="405" tvg-name="多画面" group-title="特色频道",多画面
-#线路1 · [高清源·1080P-RTSP] 多画面 · 153.36.255.37:554 · C10000440@JSBC
-rtsp://153.36.255.37:554/JSBC_iptv/C10000440@JSBC
