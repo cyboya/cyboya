@@ -1,0 +1,545 @@
+#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml.gz"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png" group-title="央视频道",CCTV1
+#线路1 · 112.86.202.37:8112 · C10000037@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV1-HD · 153.36.255.37:554 · C10000037@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000037@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV1 [HLS] · 122.96.52.98:8006 · G_CCTV-1-CQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Shhj6%2Bx0N6XQV%2BTZ5Ir58z%2FmqFNUgNeX0N9CHRdjkxcA
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV2.png" group-title="央视频道",CCTV2
+#线路1 · 112.86.202.37:8112 · C10000038@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000038@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV2-HD · 153.36.255.37:554 · C10000038@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000038@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV2 [HLS] · 122.96.52.98:8006 · G_CCTV-2-CQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SvTwpGYwwdTnk6Ua4INwUNVDfCZIhGWlMpBO3r4%2FeEWk
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV3.png" group-title="央视频道",CCTV3
+#线路1 · 112.86.202.37:8112 · C10000220@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000220@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV3-HD · 153.36.255.37:554 · C10000220@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000220@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV3 [HLS] · 122.96.52.98:8006 · G_CCTV-3-CQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SgqgOu7HqcnTmLvHHH9OdkfAhSLyqB1ZgmMcY2pZ%2FnOb
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4.png" group-title="央视频道",CCTV4
+#线路1 · 112.86.202.37:8112 · C10000039@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000039@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV4-HD · 153.36.255.37:554 · C10000039@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000039@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV4 [HLS] · 122.96.52.98:8006 · G_CCTV-4-CQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sp%2B2EIVt6%2FnJAyhsjbuJuZKg7ETNhW92hkrZwd77E6Iz
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="央视频道",CCTV5
+#线路1 · 112.86.202.37:8112 · C10000221@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000221@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV5-HD · 153.36.255.37:554 · C10000221@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000221@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV5 [HLS] · 122.96.52.98:8006 · G_CCTV-5-CQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Ss%2BabVAuYsy%2FZUN8sq9Mui54rchTv9%2BIRy%2BByC39pZ3v
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="央视频道",CCTV5+
+#线路1 · 112.86.202.37:8112 · C10000040@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000040@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV5+HD · 153.36.255.37:554 · C10000040@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000040@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV5+ [HLS] · 122.96.52.98:8006 · G_CCTV-5PLUS-CQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sp4x3ZVhpAE%2BHYVoOre4Tuu0jUzb8pYLfiKHjWCP9nst
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV6.png" group-title="央视频道",CCTV6
+#线路1 · 112.86.202.37:8112 · C10000222@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000222@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV6-HD · 153.36.255.37:554 · C10000222@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000222@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV6 [HLS] · 122.96.52.98:8006 · G_CCTV-6-CQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9StWETEWWTujl5tT30eE1ER4I8zP%2BurxZGvkVUCBQr3Wo
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV7.png" group-title="央视频道",CCTV7
+#线路1 · 157.0.143.37:8112 · C10000403@JSBC
+http://157.0.143.37:8112/JSBC_iptv/C10000403@JSBC
+#线路2 · 112.86.202.37:8112 · C10000403@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000403@JSBC
+#线路3 · [高清源·1080P-RTSP] CCTV7-HD · 153.36.255.37:554 · C10000403@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000403@JSBC
+#线路4 · [高清源·1080P-HLS] CCTV7 [HLS] · 122.96.52.98:8006 · G_CCTV-7-HQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-7-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SncR45O85wfH5EVOWYAKEZ%2BXPywDfCUdlSxB6hrkgTW%2F
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8.png" group-title="央视频道",CCTV8
+#线路1 · 112.86.202.37:8112 · C10000223@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000223@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV8-HD · 153.36.255.37:554 · C10000223@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000223@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV8 [HLS] · 122.96.52.98:8006 · G_CCTV-8-CQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SpNQo7n4tPx0gBs5Ut0kUbpzy4KdEbiQqXg4cTwIf3%2B4
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV9.png" group-title="央视频道",CCTV9
+#线路1 · 112.86.202.37:8112 · C10000042@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000042@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV9-HD · 153.36.255.37:554 · C10000042@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000042@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV9 [HLS] · 122.96.52.98:8006 · G_CCTV-9-HQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-9-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9So2H%2BOxc4QJ5GwWzGwRp3hfsv5zo8wRslqJ6vA84AHA%2B
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV10.png" group-title="央视频道",CCTV10
+#线路1 · 112.86.202.37:8112 · C10000119@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000119@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV10-HD · 153.36.255.37:554 · C10000119@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000119@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV10 [HLS] · 122.96.52.98:8006 · G_CCTV-10-HQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-10-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9ShD76M5563d32%2B4M3ZvKDu8AGDktbyHWznnrJ4enWNT0
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV11.png" group-title="央视频道",CCTV11
+#线路1 · 157.0.143.37:8112 · C10000402@JSBC
+http://157.0.143.37:8112/JSBC_iptv/C10000402@JSBC
+#线路2 · 112.86.202.37:8112 · C10000402@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000402@JSBC
+#线路3 · [高清源·1080P-RTSP] CCTV11-HD · 153.36.255.37:554 · C10000402@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000402@JSBC
+#线路4 · [高清源·1080P-HLS] CCTV11 [HLS] · 122.96.52.98:8006 · G_CCTV-11-HQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-11-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SnRb6kIQ8sW1i%2FITI6R0%2BF1f4rBJuGcjqGyMw3O5YU0x
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV12.png" group-title="央视频道",CCTV12
+#线路1 · 112.86.202.37:8112 · C10000120@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000120@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV12-HD · 153.36.255.37:554 · C10000120@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000120@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV12 [HLS] · 122.96.52.98:8006 · G_CCTV-12-HD.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-12-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Si5NeAyUYdMjBuNTrA7kR5belq3U11khiRn5EzyQwiEe
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV13.png" group-title="央视频道",CCTV13
+#线路1 · 112.86.202.37:8112 · C10000232@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000232@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV13-HD · 153.36.255.37:554 · C10000232@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000232@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV13 [HLS] · 122.96.52.98:8006 · G_CCTV-13-HQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-13-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9StYIyx80EUh0g4KLWWiVzKd6K46hwRnVOOdP%2BReyLaXG
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV14.png" group-title="央视频道",CCTV14
+#线路1 · 112.86.202.37:8112 · C10000121@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000121@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV14-HD · 153.36.255.37:554 · C10000121@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000121@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV14 [HLS] · 122.96.52.98:8006 · G_CCTV-14-HD.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-14-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SlnHLMqm%2BSWqVjnu361XiXXqa2j6ogKB1Nc2LSwTFb4p
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV15.png" group-title="央视频道",CCTV15
+#线路1 · 112.86.202.37:8112 · C10000404@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000404@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV音乐-HD · 153.36.255.37:554 · C10000404@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000404@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV15 [HLS] · 122.96.52.98:8006 · G_CCTV-15-HQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-15-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SgbtJbNyyK129GlPJlCj%2FP093AdMuX38Il2UM4RmCNSH
+#EXTINF:-1 tvg-id="1864" tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV16.png" group-title="央视频道",CCTV16
+#线路1 · 112.86.202.37:8112 · C10000474@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000474@JSBC
+#线路2 · [高清源·4K-RTSP] CCTV16-4K(SDR) · 153.36.255.37:554 · C10000474@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000474@JSBC
+#线路3 · [高清源·1080P-RTSP] CCTV16-HD · 153.36.255.37:554 · C10000193@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000193@JSBC
+#线路4 · [高清源·1080P-HLS] CCTV16 [HLS] · 122.96.52.98:8006 · G_CCTV-16-CQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SqE1QZemd1IocZlOWvZ4lkJS6gYHhVCEByt4n4vKwJ4v
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV17.png" group-title="央视频道",CCTV17
+#线路1 · 112.86.202.37:8112 · C10000041@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
+#线路2 · [高清源·1080P-RTSP] CCTV17-HD · 153.36.255.37:554 · C10000041@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000041@JSBC
+#线路3 · [高清源·1080P-HLS] CCTV17 [HLS] · 122.96.52.98:8006 · G_CCTV-17-HQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-17-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sr30Ana1I1MrealIg8GyDHWrmks93mJ9hj7a7HrvS8Z7
+#EXTINF:-1 tvg-id="73" tvg-name="CETV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV1.png" group-title="央视频道",CETV1
+#线路1 · 112.86.202.37:8112 · C10000173@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000173@JSBC
+#线路2 · [高清源·1080P-RTSP] CETV1HD · 153.36.255.37:554 · C10000173@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000173@JSBC
+#EXTINF:-1 tvg-id="1860" tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png" group-title="央视频道",CETV4
+#线路1 · 112.86.202.37:8112 · C10000405@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000405@JSBC
+#线路2 · [高清源·1080P-RTSP] CETV4-HD · 153.36.255.37:554 · C10000405@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000405@JSBC
+#EXTINF:-1 tvg-id="19" tvg-name="CGTN俄语" group-title="央视频道",CGTN俄语
+#线路1 · [高清源·1080P-RTSP] CGTN俄语-HD · 153.36.255.37:554 · C10000233@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000233@JSBC
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN西班牙语" group-title="央视频道",CGTN西班牙语
+#线路1 · [高清源·1080P-RTSP] CGTN西班牙语-HD · 153.36.255.37:554 · C10000448@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000448@JSBC
+#EXTINF:-1 tvg-id="21" tvg-name="CGTN法语" group-title="央视频道",CGTN法语
+#线路1 · [高清源·1080P-RTSP] CGTN法语-HD · 153.36.255.37:554 · C10000449@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000449@JSBC
+#EXTINF:-1 tvg-id="1645" tvg-name="梨园频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/梨园频道.png" group-title="中数传媒",梨园频道
+#线路1 · 157.0.143.37:8112 · C10000235@JSBC
+http://157.0.143.37:8112/JSBC_iptv/C10000235@JSBC
+#线路2 · 112.86.202.37:8112 · C10000235@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000235@JSBC
+#线路3 · [高清源·1080P-RTSP] 梨园HD · 153.36.255.37:554 · C10000235@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000235@JSBC
+#EXTINF:-1 tvg-id="1273" tvg-name="法治天地" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/法治天地.png" group-title="中数传媒",法治天地
+#线路1 · 112.86.202.37:8112 · C10000422@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000422@JSBC
+#线路2 · [高清源·1080P-RTSP] 法治天地HD · 153.36.255.37:554 · C10000422@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000422@JSBC
+#EXTINF:-1 tvg-id="1675" tvg-name="武术世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/武术世界.png" group-title="中数传媒",武术世界
+#线路1 · 157.0.143.37:8112 · C10000236@JSBC
+http://157.0.143.37:8112/JSBC_iptv/C10000236@JSBC
+#线路2 · 112.86.202.37:8112 · C10000236@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000236@JSBC
+#线路3 · [高清源·1080P-RTSP] 武术世界HD · 153.36.255.37:554 · C10000236@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000236@JSBC
+#EXTINF:-1 tvg-id="1324" tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/金鹰纪实.png" group-title="中数传媒",金鹰纪实
+#线路1 · 112.86.202.37:8112 · C10000187@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000187@JSBC
+#线路2 · [高清源·1080P-RTSP] 金鹰纪实HD · 153.36.255.37:554 · C10000187@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000187@JSBC
+#EXTINF:-1 tvg-id="1680" tvg-name="文物宝库" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/文物宝库.png" group-title="中数传媒",文物宝库
+#线路1 · 157.0.143.37:8112 · C10000237@JSBC
+http://157.0.143.37:8112/JSBC_iptv/C10000237@JSBC
+#线路2 · 112.86.202.37:8112 · C10000237@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000237@JSBC
+#线路3 · [高清源·1080P-RTSP] 文物宝库HD · 153.36.255.37:554 · C10000237@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000237@JSBC
+#EXTINF:-1 tvg-id="1684" tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/快乐垂钓.png" group-title="中数传媒",快乐垂钓
+#线路1 · 112.86.202.37:8112 · C10000142@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000142@JSBC
+#线路2 · [高清源·1080P-RTSP] 快乐垂钓HD · 153.36.255.37:554 · C10000142@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000142@JSBC
+#EXTINF:-1 tvg-id="1281" tvg-name="生活时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/生活时尚.png" group-title="中数传媒",生活时尚
+#线路1 · 112.86.202.37:8112 · C10000423@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000423@JSBC
+#线路2 · [高清源·1080P-RTSP] 生活时尚HD · 153.36.255.37:554 · C10000423@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000423@JSBC
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中国天气.png" group-title="中数传媒",中国天气
+#线路1 · 112.86.202.37:8112 · C10000419@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000419@JSBC
+#线路2 · [高清源·1080P-RTSP] 中国天气HD · 153.36.255.37:554 · C10000419@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000419@JSBC
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4K.png" group-title="4K节目",CCTV4K
+#线路1 · 112.86.202.37:8112 · C10000473@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000473@JSBC
+#线路2 · [高清源·4K-RTSP] CCTV-4K · 153.36.255.37:554 · C10000473@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000473@JSBC
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京卫视4K.png" group-title="4K节目",北京卫视4K
+#线路1 · 112.86.202.37:8112 · C10000435@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000435@JSBC
+#线路2 · [高清源·4K-RTSP] 北京卫视4K(SDR) · 153.36.255.37:554 · C10000425@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000425@JSBC
+#线路3 · [高清源·4K-RTSP] 北京卫视4K(HDR) · 153.36.255.37:554 · C10000435@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000435@JSBC
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方卫视4K.png" group-title="4K节目",东方卫视4K
+#线路1 · 112.86.202.37:8112 · C10000463@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000463@JSBC
+#线路2 · [高清源·4K-RTSP] 东方卫视4K(SDR) · 153.36.255.37:554 · C10000463@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000463@JSBC
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/广东卫视4K.png" group-title="4K节目",广东卫视4K
+#线路1 · 112.86.202.37:8112 · C10000436@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000436@JSBC
+#线路2 · [高清源·4K-RTSP] 广东卫视4K(SDR) · 153.36.255.37:554 · C10000436@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000436@JSBC
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳卫视4K.png" group-title="4K节目",深圳卫视4K
+#线路1 · 112.86.202.37:8112 · C10000438@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000438@JSBC
+#线路2 · [高清源·4K-RTSP] 深圳卫视4K(SDR) · 153.36.255.37:554 · C10000438@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000438@JSBC
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南卫视4K.png" group-title="4K节目",湖南卫视4K
+#线路1 · 112.86.202.37:8112 · C10000461@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000461@JSBC
+#线路2 · [高清源·4K-RTSP] 湖南卫视4K(SDR) · 153.36.255.37:554 · C10000461@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000461@JSBC
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东卫视4K.png" group-title="4K节目",山东卫视4K
+#线路1 · 112.86.202.37:8112 · C10000465@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000465@JSBC
+#线路2 · [高清源·4K-RTSP] 山东卫视4K(SDR) · 153.36.255.37:554 · C10000465@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000465@JSBC
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/四川卫视4K.png" group-title="4K节目",四川卫视4K
+#线路1 · 112.86.202.37:8112 · C10000459@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000459@JSBC
+#线路2 · [高清源·4K-RTSP] 四川卫视4K(SDR) · 153.36.255.37:554 · C10000459@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000459@JSBC
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江卫视4K.png" group-title="4K节目",浙江卫视4K
+#线路1 · 112.86.202.37:8112 · C10000457@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000457@JSBC
+#线路2 · [高清源·4K-RTSP] 浙江卫视4K(SDR) · 153.36.255.37:554 · C10000457@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000457@JSBC
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏卫视4K.png" group-title="4K节目",江苏卫视4K
+#线路1 · 112.86.202.37:8112 · C10000455@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000455@JSBC
+#线路2 · 112.86.202.37:8112 · C10000454@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000454@JSBC
+#线路3 · [高清源·4K-RTSP] 江苏卫视4K(SDR) · 153.36.255.37:554 · C10000454@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000454@JSBC
+#线路4 · [高清源·4K-RTSP] 江苏卫视4K(HDR) · 153.36.255.37:554 · C10000455@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000455@JSBC
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+#线路1 · 112.86.202.37:8112 · C10000053@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000053@JSBC
+#线路2 · [高清源·1080P-RTSP] 重庆卫视HD · 153.36.255.37:554 · C10000053@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000053@JSBC
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+#线路1 · 112.86.202.37:8112 · C10000015@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000015@JSBC
+#线路2 · [高清源·1080P-RTSP] 江苏卫视HD · 153.36.255.37:554 · C10000015@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000015@JSBC
+#线路3 · [高清源·1080P-HLS] 江苏卫视 [HLS] · 122.96.52.98:8006 · G_JIANGSU-CQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SjDMSVKZoezy2Nq1rpRNZoBwIPz66EtNlOhB2%2BqV6gde
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+#线路1 · 112.86.202.37:8112 · C10000044@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000044@JSBC
+#线路2 · [高清源·1080P-RTSP] 浙江卫视HD · 153.36.255.37:554 · C10000044@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000044@JSBC
+#线路3 · [高清源·1080P-HLS] 浙江卫视 [HLS] · 122.96.52.98:8006 · ZJWS-HD.m3u8
+http://122.96.52.98:8006/JS_CUCC/ZJWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SmbnWubpFooGs2nNK51ZfPh0x0CWlmwD8Ce8DSIcqu14
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方卫视.png" group-title="卫视频道",东方卫视
+#线路1 · 112.86.202.37:8112 · C10000045@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000045@JSBC
+#线路2 · [高清源·1080P-RTSP] 东方卫视HD · 153.36.255.37:554 · C10000045@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000045@JSBC
+#线路3 · [高清源·1080P-HLS] 东方卫视 [HLS] · 122.96.52.98:8006 · DFWS-HD.m3u8
+http://122.96.52.98:8006/JS_CUCC/DFWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SjGF24%2BdBbI9VA8B6qmieOYOP7fmtYNYadKMB6wfdw%2B1&partnerCode=JS_CUCC
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+#线路1 · 112.86.202.37:8112 · C10000048@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000048@JSBC
+#线路2 · [高清源·1080P-RTSP] 深圳卫视HD · 153.36.255.37:554 · C10000048@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000048@JSBC
+#线路3 · [高清源·1080P-HLS] 深圳卫视 [HLS] · 122.96.52.98:8006 · SZWS-HD.m3u8
+http://122.96.52.98:8006/JS_CUCC/SZWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SoTG1LiDsoU3WreJsRgjuP40G6%2BPpHs%2FzqZVkQ8X9e8V
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东卫视.png" group-title="卫视频道",山东卫视
+#线路1 · 112.86.202.37:8112 · C10000049@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000049@JSBC
+#线路2 · [高清源·1080P-RTSP] 山东卫视HD · 153.36.255.37:554 · C10000049@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000049@JSBC
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津卫视.png" group-title="卫视频道",天津卫视
+#线路1 · 112.86.202.37:8112 · C10000052@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000052@JSBC
+#线路2 · [高清源·1080P-RTSP] 天津卫视HD · 153.36.255.37:554 · C10000052@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000052@JSBC
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+#线路1 · 112.86.202.37:8112 · C10000171@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000171@JSBC
+#线路2 · [高清源·1080P-RTSP] 贵州卫视HD · 153.36.255.37:554 · C10000171@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000171@JSBC
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/四川卫视.png" group-title="卫视频道",四川卫视
+#线路1 · 112.86.202.37:8112 · C10000167@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000167@JSBC
+#线路2 · [高清源·1080P-RTSP] 四川卫视HD · 153.36.255.37:554 · C10000167@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000167@JSBC
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/云南卫视.png" group-title="卫视频道",云南卫视
+#线路1 · 112.86.202.37:8112 · C10000202@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000202@JSBC
+#线路2 · [高清源·1080P-RTSP] 云南卫视HD · 153.36.255.37:554 · C10000202@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000202@JSBC
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/广西卫视.png" group-title="卫视频道",广西卫视
+#线路1 · 112.86.202.37:8112 · C10000198@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000198@JSBC
+#线路2 · [高清源·1080P-RTSP] 广西卫视HD · 153.36.255.37:554 · C10000198@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000198@JSBC
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+#线路1 · 112.86.202.37:8112 · C10000050@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000050@JSBC
+#线路2 · [高清源·1080P-RTSP] 黑龙江卫视HD · 153.36.255.37:554 · C10000050@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000050@JSBC
+#线路3 · [高清源·1080P-HLS] 黑龙江卫视 [HLS] · 122.96.52.98:8006 · HLJWS-HD.m3u8
+http://122.96.52.98:8006/JS_CUCC/HLJWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SrjK2EBfOjpKriSgNAli9uZx%2F1RHl35BXjR1XDh5W1hn&partnerCode=JS_CUCC
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+#线路1 · 112.86.202.37:8112 · C10000192@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000192@JSBC
+#线路2 · [高清源·1080P-RTSP] 安徽卫视HD · 153.36.255.37:554 · C10000192@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000192@JSBC
+#线路3 · [高清源·1080P-HLS] 安徽卫视 [HLS] · 122.96.52.98:8006 · G_ANHUI-CQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_ANHUI-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9So029a3%2FwnEWO5mZF4JIQo9DRxKTnwRdrwHyST1lOZnx&partnerCode=JS_CUCC
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山西卫视.png" group-title="卫视频道",山西卫视
+#线路1 · 112.86.202.37:8112 · C10000447@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000447@JSBC
+#线路2 · [高清源·1080P-RTSP] 山西卫视HD · 153.36.255.37:554 · C10000447@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000447@JSBC
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江西卫视.png" group-title="卫视频道",江西卫视
+#线路1 · 112.86.202.37:8112 · C10000168@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000168@JSBC
+#线路2 · [高清源·1080P-RTSP] 江西卫视HD · 153.36.255.37:554 · C10000168@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000168@JSBC
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+#线路1 · 112.86.202.37:8112 · C10000051@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000051@JSBC
+#线路2 · [高清源·1080P-RTSP] 湖北卫视HD · 153.36.255.37:554 · C10000051@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000051@JSBC
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/旅游卫视.png" group-title="卫视频道",海南卫视
+#线路1 · 112.86.202.37:8112 · C10000200@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000200@JSBC
+#线路2 · [高清源·1080P-RTSP] 海南卫视HD · 153.36.255.37:554 · C10000200@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000200@JSBC
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
+#线路1 · 112.86.202.37:8112 · C10000468@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000468@JSBC
+#线路2 · [高清源·1080P-RTSP] 陕西卫视HD · 153.36.255.37:554 · C10000468@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000468@JSBC
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东南卫视.png" group-title="卫视频道",东南卫视
+#线路1 · 157.0.143.37:8112 · C10000169@JSBC
+http://157.0.143.37:8112/JSBC_iptv/C10000169@JSBC
+#线路2 · 112.86.202.37:8112 · C10000169@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000169@JSBC
+#线路3 · [高清源·1080P-RTSP] 东南卫视HD · 153.36.255.37:554 · C10000169@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000169@JSBC
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+#线路1 · 112.86.202.37:8112 · C10000170@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000170@JSBC
+#线路2 · [高清源·1080P-RTSP] 吉林卫视HD · 153.36.255.37:554 · C10000170@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000170@JSBC
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+#线路1 · 112.86.202.37:8112 · C10000141@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000141@JSBC
+#线路2 · [高清源·1080P-RTSP] 辽宁卫视HD · 153.36.255.37:554 · C10000141@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000141@JSBC
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+#线路1 · 112.86.202.37:8112 · C10000469@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000469@JSBC
+#线路2 · [高清源·1080P-RTSP] 内蒙古卫视HD · 153.36.255.37:554 · C10000469@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000469@JSBC
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+#线路1 · 112.86.202.37:8112 · C10000043@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000043@JSBC
+#线路2 · [高清源·1080P-RTSP] 湖南卫视HD · 153.36.255.37:554 · C10000043@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000043@JSBC
+#线路3 · [高清源·1080P-HLS] 湖南卫视 [HLS] · 122.96.52.98:8006 · HNWS-HD.m3u8
+http://122.96.52.98:8006/JS_CUCC/HNWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SjmfxxRjy5NcE9D8Nfh5fQsqHG9Gv90EQIMi0q3z0fZ%2F&partnerCode=JS_CUCC
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/广东卫视.png" group-title="卫视频道",广东卫视
+#线路1 · 112.86.202.37:8112 · C10000047@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000047@JSBC
+#线路2 · [高清源·1080P-RTSP] 广东卫视HD · 153.36.255.37:554 · C10000047@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000047@JSBC
+#线路3 · [高清源·1080P-HLS] 广东卫视 [HLS] · 122.96.52.98:8006 · GDWS-HD.m3u8
+http://122.96.52.98:8006/JS_CUCC/GDWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SldBkXTBKzz%2BUZ99WaLXf6yjvWOWFeLTXrFmc%2BHmUZoh
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/河南卫视.png" group-title="卫视频道",河南卫视
+#线路1 · 112.86.202.37:8112 · C10000185@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000185@JSBC
+#线路2 · [高清源·1080P-RTSP] 河南卫视HD · 153.36.255.37:554 · C10000185@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000185@JSBC
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/河北卫视.png" group-title="卫视频道",河北卫视
+#线路1 · 112.86.202.37:8112 · C10000172@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000172@JSBC
+#线路2 · [高清源·1080P-RTSP] 河北卫视HD · 153.36.255.37:554 · C10000172@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000172@JSBC
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+#线路1 · 112.86.202.37:8112 · C10000453@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000453@JSBC
+#线路2 · [高清源·1080P-RTSP] 宁夏卫视HD · 153.36.255.37:554 · C10000453@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000453@JSBC
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+#线路1 · 157.0.143.37:8112 · C10000407@JSBC
+http://157.0.143.37:8112/JSBC_iptv/C10000407@JSBC
+#线路2 · 112.86.202.37:8112 · C10000407@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000407@JSBC
+#线路3 · [高清源·1080P-RTSP] 甘肃卫视HD · 153.36.255.37:554 · C10000407@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000407@JSBC
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/青海卫视.png" group-title="卫视频道",青海卫视
+#线路1 · 157.0.143.37:8112 · C10000408@JSBC
+http://157.0.143.37:8112/JSBC_iptv/C10000408@JSBC
+#线路2 · 112.86.202.37:8112 · C10000408@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000408@JSBC
+#线路3 · [高清源·1080P-RTSP] 青海卫视HD · 153.36.255.37:554 · C10000408@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000408@JSBC
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
+#线路1 · 112.86.202.37:8112 · C10000451@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000451@JSBC
+#线路2 · [高清源·1080P-RTSP] 新疆卫视HD · 153.36.255.37:554 · C10000451@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000451@JSBC
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
+#线路1 · 112.86.202.37:8112 · C10000450@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000450@JSBC
+#线路2 · [高清源·1080P-RTSP] 西藏卫视HD · 153.36.255.37:554 · C10000450@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000450@JSBC
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
+#线路1 · 112.86.202.37:8112 · C10000452@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000452@JSBC
+#线路2 · [高清源·1080P-RTSP] 兵团卫视HD · 153.36.255.37:554 · C10000452@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000452@JSBC
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
+#线路1 · 157.0.143.37:8112 · C10000410@JSBC
+http://157.0.143.37:8112/JSBC_iptv/C10000410@JSBC
+#线路2 · 112.86.202.37:8112 · C10000410@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000410@JSBC
+#线路3 · [高清源·1080P-RTSP] 三沙卫视HD · 153.36.255.37:554 · C10000410@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000410@JSBC
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/金鹰卡通.png" group-title="卫视频道",金鹰卡通
+#线路1 · 112.86.202.37:8112 · C10000216@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000216@JSBC
+#线路2 · [高清源·1080P-RTSP] 金鹰卡通HD · 153.36.255.37:554 · C10000216@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000216@JSBC
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/卡酷少儿.png" group-title="卫视频道",卡酷少儿
+#线路1 · 112.86.202.37:8112 · C10000426@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000426@JSBC
+#线路2 · [高清源·1080P-RTSP] 卡酷少儿HD · 153.36.255.37:554 · C10000426@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000426@JSBC
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东教育卫视.png" group-title="卫视频道",山东教育卫视
+#线路1 · 112.86.202.37:8112 · C10000434@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000434@JSBC
+#线路2 · [高清源·1080P-RTSP] 山东教育卫视HD · 153.36.255.37:554 · C10000434@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000434@JSBC
+#EXTINF:-1 tvg-id="113" tvg-name="北京卫视" group-title="卫视频道",北京卫视
+#线路1 · [高清源·1080P-RTSP] 北京卫视HD · 153.36.255.37:554 · C10000046@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000046@JSBC
+#线路2 · [高清源·1080P-HLS] 北京卫视 [HLS] · 122.96.52.98:8006 · G_BEIJING-CQ.m3u8
+http://122.96.52.98:8006/JS_CUCC/G_BEIJING-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sp3aGI6wBIFH3eRu0uzUQZKTlJlmf6tbq%2F5x83RYQXML
+#EXTINF:-1 tvg-id="349" tvg-name="江苏新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏新闻.png" group-title="江苏节目",江苏新闻
+#线路1 · 112.86.202.37:8112 · C10000440@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000440@JSBC
+#线路2 · 112.86.202.37:8112 · C10000229@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000229@JSBC
+#线路3 · [高清源·1080P-RTSP] 江苏新闻HD · 153.36.255.37:554 · C10000229@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000229@JSBC
+#EXTINF:-1 tvg-id="344" tvg-name="江苏城市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏城市.png" group-title="江苏节目",江苏城市
+#线路1 · 112.86.202.37:8112 · C10000224@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000224@JSBC
+#线路2 · [高清源·1080P-RTSP] 江苏城市HD · 153.36.255.37:554 · C10000224@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000224@JSBC
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏教育.png" group-title="江苏节目",江苏教育
+#线路1 · 112.86.202.37:8112 · C10000231@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000231@JSBC
+#线路2 · [高清源·1080P-RTSP] 江苏教育HD · 153.36.255.37:554 · C10000231@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000231@JSBC
+#EXTINF:-1 tvg-id="345" tvg-name="江苏影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏影视.png" group-title="江苏节目",江苏影视
+#线路1 · 112.86.202.37:8112 · C10000227@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000227@JSBC
+#线路2 · [高清源·1080P-RTSP] 江苏影视HD · 153.36.255.37:554 · C10000227@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000227@JSBC
+#EXTINF:-1 tvg-id="351" tvg-name="江苏综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏综艺.png" group-title="江苏节目",江苏综艺
+#线路1 · 112.86.202.37:8112 · C10000225@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000225@JSBC
+#线路2 · [高清源·1080P-RTSP] 江苏综艺HD · 153.36.255.37:554 · C10000225@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000225@JSBC
+#EXTINF:-1 tvg-id="347" tvg-name="江苏体育休闲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏体育休闲.png" group-title="江苏节目",江苏体育休闲
+#线路1 · 112.86.202.37:8112 · C10000226@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000226@JSBC
+#线路2 · [高清源·1080P-RTSP] 江苏体育休闲HD · 153.36.255.37:554 · C10000226@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000226@JSBC
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏国际.png" group-title="江苏节目",江苏国际
+#线路1 · 112.86.202.37:8112 · C10000470@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000470@JSBC
+#线路2 · [高清源·1080P-RTSP] 江苏国际HD · 153.36.255.37:554 · C10000470@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000470@JSBC
+#EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/优漫卡通.png" group-title="江苏节目",优漫卡通
+#线路1 · 112.86.202.37:8112 · C10000228@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000228@JSBC
+#线路2 · [高清源·1080P-RTSP] 优漫卡通HD · 153.36.255.37:554 · C10000228@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000228@JSBC
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/睛彩竞技.png" group-title="特色频道",睛彩竞技
+#线路1 · 112.86.202.37:8112 · C10000433@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000433@JSBC
+#线路2 · [高清源·1080P-RTSP] 睛彩竞技HD(限免) · 153.36.255.37:554 · C10000433@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000433@JSBC
+#EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/晴彩广场舞.png" group-title="特色频道",晴彩广场舞
+#线路1 · 112.86.202.37:8112 · C10000429@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000429@JSBC
+#线路2 · [高清源·1080P-RTSP] 睛彩广场舞HD(限免) · 153.36.255.37:554 · C10000429@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000429@JSBC
+#EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/晴彩篮球.png" group-title="特色频道",晴彩篮球
+#线路1 · 112.86.202.37:8112 · C10000431@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000431@JSBC
+#线路2 · [高清源·1080P-RTSP] 睛彩篮球HD(限免) · 153.36.255.37:554 · C10000431@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000431@JSBC
+#EXTINF:-1 tvg-name="晴彩青少" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/晴彩青少.png" group-title="特色频道",晴彩青少
+#线路1 · 112.86.202.37:8112 · C10000428@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000428@JSBC
+#线路2 · [高清源·1080P-RTSP] 睛彩青少HD(限免) · 153.36.255.37:554 · C10000428@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000428@JSBC
+#EXTINF:-1 tvg-name="盐城一套" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cyboya/cyboya/refs/heads/main/logo/盐城一套.png" group-title="特色频道",盐城一套
+#线路1 · 122.97.211.133:8112 · C10000234@JSBC
+http://122.97.211.133:8112/JSBC_iptv/C10000234@JSBC
+#EXTINF:-1 tvg-id="1282" tvg-name="都市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/都市剧场.png" group-title="特色频道",都市剧场
+#线路1 · 112.86.202.37:8112 · C10000424@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000424@JSBC
+#线路2 · [高清源·1080P-RTSP] 都市剧场HD · 153.36.255.37:554 · C10000424@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000424@JSBC
+#EXTINF:-1 tvg-id="29" tvg-name="好享购物" group-title="特色频道",好享购物
+#线路1 · [高清源·1080P-RTSP] 好享购物HD · 153.36.255.37:554 · C10000230@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000230@JSBC
+#EXTINF:-1 tvg-id="32" tvg-name="财富天下" group-title="特色频道",财富天下
+#线路1 · [高清源·1080P-RTSP] 财富天下HD · 153.36.255.37:554 · C10000467@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000467@JSBC
+#EXTINF:-1 tvg-id="212" tvg-name="东方财经" group-title="特色频道",东方财经
+#线路1 · [高清源·1080P-RTSP] 东方财经HD · 153.36.255.37:554 · C10000420@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000420@JSBC
+#EXTINF:-1 tvg-id="405" tvg-name="多画面" group-title="特色频道",多画面
+#线路1 · [高清源·1080P-RTSP] 多画面 · 153.36.255.37:554 · C10000440@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000440@JSBC
