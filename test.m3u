@@ -1,0 +1,251 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="496" tvg-name="CCTV-4K" group-title="4K-RTSP",CCTV-4K
+rtsp://153.36.255.37:554/JSBC_iptv/C10000473@JSBC
+#EXTINF:-1 tvg-id="498" tvg-name="CCTV16-4K(SDR)" group-title="4K-RTSP",CCTV16-4K(SDR)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000474@JSBC
+#EXTINF:-1 tvg-id="500" tvg-name="江苏卫视4K(SDR)" group-title="4K-RTSP",江苏卫视4K(SDR)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000454@JSBC
+#EXTINF:-1 tvg-id="501" tvg-name="江苏卫视4K(HDR)" group-title="4K-RTSP",江苏卫视4K(HDR)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000455@JSBC
+#EXTINF:-1 tvg-id="502" tvg-name="北京卫视4K(SDR)" group-title="4K-RTSP",北京卫视4K(SDR)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000425@JSBC
+#EXTINF:-1 tvg-id="503" tvg-name="北京卫视4K(HDR)" group-title="4K-RTSP",北京卫视4K(HDR)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000435@JSBC
+#EXTINF:-1 tvg-id="504" tvg-name="广东卫视4K(SDR)" group-title="4K-RTSP",广东卫视4K(SDR)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000436@JSBC
+#EXTINF:-1 tvg-id="506" tvg-name="深圳卫视4K(SDR)" group-title="4K-RTSP",深圳卫视4K(SDR)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000438@JSBC
+#EXTINF:-1 tvg-id="508" tvg-name="浙江卫视4K(SDR)" group-title="4K-RTSP",浙江卫视4K(SDR)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000457@JSBC
+#EXTINF:-1 tvg-id="510" tvg-name="四川卫视4K(SDR)" group-title="4K-RTSP",四川卫视4K(SDR)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000459@JSBC
+#EXTINF:-1 tvg-id="512" tvg-name="湖南卫视4K(SDR)" group-title="4K-RTSP",湖南卫视4K(SDR)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000461@JSBC
+#EXTINF:-1 tvg-id="514" tvg-name="东方卫视4K(SDR)" group-title="4K-RTSP",东方卫视4K(SDR)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000463@JSBC
+#EXTINF:-1 tvg-id="516" tvg-name="山东卫视4K(SDR)" group-title="4K-RTSP",山东卫视4K(SDR)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000465@JSBC
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1-HD" group-title="1080P-RTSP",CCTV1-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000037@JSBC
+#EXTINF:-1 tvg-id="2" tvg-name="江苏卫视HD" group-title="1080P-RTSP",江苏卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000015@JSBC
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV2-HD" group-title="1080P-RTSP",CCTV2-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000038@JSBC
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV3-HD" group-title="1080P-RTSP",CCTV3-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000220@JSBC
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV4-HD" group-title="1080P-RTSP",CCTV4-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000039@JSBC
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5-HD" group-title="1080P-RTSP",CCTV5-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000221@JSBC
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9-HD" group-title="1080P-RTSP",CCTV9-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000042@JSBC
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12-HD" group-title="1080P-RTSP",CCTV12-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000120@JSBC
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14-HD" group-title="1080P-RTSP",CCTV14-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000121@JSBC
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17-HD" group-title="1080P-RTSP",CCTV17-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000041@JSBC
+#EXTINF:-1 tvg-id="19" tvg-name="CGTN俄语-HD" group-title="1080P-RTSP",CGTN俄语-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000233@JSBC
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN西班牙语-HD" group-title="1080P-RTSP",CGTN西班牙语-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000448@JSBC
+#EXTINF:-1 tvg-id="21" tvg-name="CGTN法语-HD" group-title="1080P-RTSP",CGTN法语-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000449@JSBC
+#EXTINF:-1 tvg-id="22" tvg-name="江苏城市HD" group-title="1080P-RTSP",江苏城市HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000224@JSBC
+#EXTINF:-1 tvg-id="23" tvg-name="江苏综艺HD" group-title="1080P-RTSP",江苏综艺HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000225@JSBC
+#EXTINF:-1 tvg-id="24" tvg-name="江苏体育休闲HD" group-title="1080P-RTSP",江苏体育休闲HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000226@JSBC
+#EXTINF:-1 tvg-id="25" tvg-name="江苏影视HD" group-title="1080P-RTSP",江苏影视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000227@JSBC
+#EXTINF:-1 tvg-id="26" tvg-name="优漫卡通HD" group-title="1080P-RTSP",优漫卡通HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000228@JSBC
+#EXTINF:-1 tvg-id="27" tvg-name="江苏新闻HD" group-title="1080P-RTSP",江苏新闻HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000229@JSBC
+#EXTINF:-1 tvg-id="29" tvg-name="好享购物HD" group-title="1080P-RTSP",好享购物HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000230@JSBC
+#EXTINF:-1 tvg-id="30" tvg-name="江苏教育HD" group-title="1080P-RTSP",江苏教育HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000231@JSBC
+#EXTINF:-1 tvg-id="32" tvg-name="财富天下HD" group-title="1080P-RTSP",财富天下HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000467@JSBC
+#EXTINF:-1 tvg-id="54" tvg-name="睛彩竞技HD(限免)" group-title="1080P-RTSP",睛彩竞技HD(限免)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000433@JSBC
+#EXTINF:-1 tvg-id="55" tvg-name="睛彩篮球HD(限免)" group-title="1080P-RTSP",睛彩篮球HD(限免)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000431@JSBC
+#EXTINF:-1 tvg-id="56" tvg-name="睛彩青少HD(限免)" group-title="1080P-RTSP",睛彩青少HD(限免)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000428@JSBC
+#EXTINF:-1 tvg-id="57" tvg-name="睛彩广场舞HD(限免)" group-title="1080P-RTSP",睛彩广场舞HD(限免)
+rtsp://153.36.255.37:554/JSBC_iptv/C10000429@JSBC
+#EXTINF:-1 tvg-id="108" tvg-name="卡酷少儿HD" group-title="1080P-RTSP",卡酷少儿HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000426@JSBC
+#EXTINF:-1 tvg-id="109" tvg-name="金鹰卡通HD" group-title="1080P-RTSP",金鹰卡通HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000216@JSBC
+#EXTINF:-1 tvg-id="110" tvg-name="湖南卫视HD" group-title="1080P-RTSP",湖南卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000043@JSBC
+#EXTINF:-1 tvg-id="111" tvg-name="浙江卫视HD" group-title="1080P-RTSP",浙江卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000044@JSBC
+#EXTINF:-1 tvg-id="112" tvg-name="东方卫视HD" group-title="1080P-RTSP",东方卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000045@JSBC
+#EXTINF:-1 tvg-id="113" tvg-name="北京卫视HD" group-title="1080P-RTSP",北京卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000046@JSBC
+#EXTINF:-1 tvg-id="114" tvg-name="山东卫视HD" group-title="1080P-RTSP",山东卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000049@JSBC
+#EXTINF:-1 tvg-id="115" tvg-name="安徽卫视HD" group-title="1080P-RTSP",安徽卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000192@JSBC
+#EXTINF:-1 tvg-id="116" tvg-name="江西卫视HD" group-title="1080P-RTSP",江西卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000168@JSBC
+#EXTINF:-1 tvg-id="117" tvg-name="深圳卫视HD" group-title="1080P-RTSP",深圳卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000048@JSBC
+#EXTINF:-1 tvg-id="118" tvg-name="辽宁卫视HD" group-title="1080P-RTSP",辽宁卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000141@JSBC
+#EXTINF:-1 tvg-id="119" tvg-name="广东卫视HD" group-title="1080P-RTSP",广东卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000047@JSBC
+#EXTINF:-1 tvg-id="120" tvg-name="重庆卫视HD" group-title="1080P-RTSP",重庆卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000053@JSBC
+#EXTINF:-1 tvg-id="121" tvg-name="天津卫视HD" group-title="1080P-RTSP",天津卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000052@JSBC
+#EXTINF:-1 tvg-id="122" tvg-name="湖北卫视HD" group-title="1080P-RTSP",湖北卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000051@JSBC
+#EXTINF:-1 tvg-id="125" tvg-name="山西卫视HD" group-title="1080P-RTSP",山西卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000447@JSBC
+#EXTINF:-1 tvg-id="126" tvg-name="西藏卫视HD" group-title="1080P-RTSP",西藏卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000450@JSBC
+#EXTINF:-1 tvg-id="127" tvg-name="新疆卫视HD" group-title="1080P-RTSP",新疆卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000451@JSBC
+#EXTINF:-1 tvg-id="128" tvg-name="兵团卫视HD" group-title="1080P-RTSP",兵团卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000452@JSBC
+#EXTINF:-1 tvg-id="129" tvg-name="宁夏卫视HD" group-title="1080P-RTSP",宁夏卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000453@JSBC
+#EXTINF:-1 tvg-id="130" tvg-name="陕西卫视HD" group-title="1080P-RTSP",陕西卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000468@JSBC
+#EXTINF:-1 tvg-id="131" tvg-name="内蒙古卫视HD" group-title="1080P-RTSP",内蒙古卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000469@JSBC
+#EXTINF:-1 tvg-id="166" tvg-name="四川卫视HD" group-title="1080P-RTSP",四川卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000167@JSBC
+#EXTINF:-1 tvg-id="167" tvg-name="广西卫视HD" group-title="1080P-RTSP",广西卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000198@JSBC
+#EXTINF:-1 tvg-id="168" tvg-name="海南卫视HD" group-title="1080P-RTSP",海南卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000200@JSBC
+#EXTINF:-1 tvg-id="169" tvg-name="河南卫视HD" group-title="1080P-RTSP",河南卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000185@JSBC
+#EXTINF:-1 tvg-id="170" tvg-name="东南卫视HD" group-title="1080P-RTSP",东南卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000169@JSBC
+#EXTINF:-1 tvg-id="171" tvg-name="吉林卫视HD" group-title="1080P-RTSP",吉林卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000170@JSBC
+#EXTINF:-1 tvg-id="172" tvg-name="黑龙江卫视HD" group-title="1080P-RTSP",黑龙江卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000050@JSBC
+#EXTINF:-1 tvg-id="174" tvg-name="贵州卫视HD" group-title="1080P-RTSP",贵州卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000171@JSBC
+#EXTINF:-1 tvg-id="176" tvg-name="CETV1HD" group-title="1080P-RTSP",CETV1HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000173@JSBC
+#EXTINF:-1 tvg-id="192" tvg-name="快乐垂钓HD" group-title="1080P-RTSP",快乐垂钓HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000142@JSBC
+#EXTINF:-1 tvg-id="195" tvg-name="云南卫视HD" group-title="1080P-RTSP",云南卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000202@JSBC
+#EXTINF:-1 tvg-id="196" tvg-name="河北卫视HD" group-title="1080P-RTSP",河北卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000172@JSBC
+#EXTINF:-1 tvg-id="205" tvg-name="CETV4-HD" group-title="1080P-RTSP",CETV4-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000405@JSBC
+#EXTINF:-1 tvg-id="206" tvg-name="甘肃卫视HD" group-title="1080P-RTSP",甘肃卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000407@JSBC
+#EXTINF:-1 tvg-id="207" tvg-name="青海卫视HD" group-title="1080P-RTSP",青海卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000408@JSBC
+#EXTINF:-1 tvg-id="208" tvg-name="三沙卫视HD" group-title="1080P-RTSP",三沙卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000410@JSBC
+#EXTINF:-1 tvg-id="211" tvg-name="中国天气HD" group-title="1080P-RTSP",中国天气HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000419@JSBC
+#EXTINF:-1 tvg-id="212" tvg-name="东方财经HD" group-title="1080P-RTSP",东方财经HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000420@JSBC
+#EXTINF:-1 tvg-id="213" tvg-name="法治天地HD" group-title="1080P-RTSP",法治天地HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000422@JSBC
+#EXTINF:-1 tvg-id="214" tvg-name="生活时尚HD" group-title="1080P-RTSP",生活时尚HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000423@JSBC
+#EXTINF:-1 tvg-id="215" tvg-name="都市剧场HD" group-title="1080P-RTSP",都市剧场HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000424@JSBC
+#EXTINF:-1 tvg-id="216" tvg-name="山东教育卫视HD" group-title="1080P-RTSP",山东教育卫视HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000434@JSBC
+#EXTINF:-1 tvg-id="306" tvg-name="CCTV6-HD" group-title="1080P-RTSP",CCTV6-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000222@JSBC
+#EXTINF:-1 tvg-id="307" tvg-name="CCTV7-HD" group-title="1080P-RTSP",CCTV7-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000403@JSBC
+#EXTINF:-1 tvg-id="308" tvg-name="CCTV8-HD" group-title="1080P-RTSP",CCTV8-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000223@JSBC
+#EXTINF:-1 tvg-id="310" tvg-name="CCTV10-HD" group-title="1080P-RTSP",CCTV10-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000119@JSBC
+#EXTINF:-1 tvg-id="311" tvg-name="CCTV11-HD" group-title="1080P-RTSP",CCTV11-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000402@JSBC
+#EXTINF:-1 tvg-id="313" tvg-name="CCTV13-HD" group-title="1080P-RTSP",CCTV13-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000232@JSBC
+#EXTINF:-1 tvg-id="315" tvg-name="CCTV音乐-HD" group-title="1080P-RTSP",CCTV音乐-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000404@JSBC
+#EXTINF:-1 tvg-id="316" tvg-name="CCTV16-HD" group-title="1080P-RTSP",CCTV16-HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000193@JSBC
+#EXTINF:-1 tvg-id="320" tvg-name="CCTV5+HD" group-title="1080P-RTSP",CCTV5+HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000040@JSBC
+#EXTINF:-1 tvg-id="330" tvg-name="江苏国际HD" group-title="1080P-RTSP",江苏国际HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000470@JSBC
+#EXTINF:-1 tvg-id="355" tvg-name="金鹰纪实HD" group-title="1080P-RTSP",金鹰纪实HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000187@JSBC
+#EXTINF:-1 tvg-id="381" tvg-name="梨园HD" group-title="1080P-RTSP",梨园HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000235@JSBC
+#EXTINF:-1 tvg-id="382" tvg-name="武术世界HD" group-title="1080P-RTSP",武术世界HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000236@JSBC
+#EXTINF:-1 tvg-id="383" tvg-name="文物宝库HD" group-title="1080P-RTSP",文物宝库HD
+rtsp://153.36.255.37:554/JSBC_iptv/C10000237@JSBC
+#EXTINF:-1 tvg-id="405" tvg-name="多画面" group-title="1080P-RTSP",多画面
+rtsp://153.36.255.37:554/JSBC_iptv/C10000440@JSBC
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="1080P-HLS",江苏卫视 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SjDMSVKZoezy2Nq1rpRNZoBwIPz66EtNlOhB2%2BqV6gde
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="1080P-HLS",浙江卫视 [HLS]
+http://122.96.52.98:8006/JS_CUCC/ZJWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SmbnWubpFooGs2nNK51ZfPh0x0CWlmwD8Ce8DSIcqu14
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="1080P-HLS",湖南卫视 [HLS]
+http://122.96.52.98:8006/JS_CUCC/HNWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SjmfxxRjy5NcE9D8Nfh5fQsqHG9Gv90EQIMi0q3z0fZ%2F&partnerCode=JS_CUCC
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="1080P-HLS",东方卫视 [HLS]
+http://122.96.52.98:8006/JS_CUCC/DFWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SjGF24%2BdBbI9VA8B6qmieOYOP7fmtYNYadKMB6wfdw%2B1&partnerCode=JS_CUCC
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="1080P-HLS",北京卫视 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_BEIJING-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sp3aGI6wBIFH3eRu0uzUQZKTlJlmf6tbq%2F5x83RYQXML
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="1080P-HLS",广东卫视 [HLS]
+http://122.96.52.98:8006/JS_CUCC/GDWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SldBkXTBKzz%2BUZ99WaLXf6yjvWOWFeLTXrFmc%2BHmUZoh
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="1080P-HLS",深圳卫视 [HLS]
+http://122.96.52.98:8006/JS_CUCC/SZWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SoTG1LiDsoU3WreJsRgjuP40G6%2BPpHs%2FzqZVkQ8X9e8V
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="1080P-HLS",安徽卫视 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_ANHUI-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9So029a3%2FwnEWO5mZF4JIQo9DRxKTnwRdrwHyST1lOZnx&partnerCode=JS_CUCC
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="1080P-HLS",黑龙江卫视 [HLS]
+http://122.96.52.98:8006/JS_CUCC/HLJWS-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SrjK2EBfOjpKriSgNAli9uZx%2F1RHl35BXjR1XDh5W1hn&partnerCode=JS_CUCC
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="1080P-HLS",CCTV1 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Shhj6%2Bx0N6XQV%2BTZ5Ir58z%2FmqFNUgNeX0N9CHRdjkxcA
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="1080P-HLS",CCTV2 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SvTwpGYwwdTnk6Ua4INwUNVDfCZIhGWlMpBO3r4%2FeEWk
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="1080P-HLS",CCTV3 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SgqgOu7HqcnTmLvHHH9OdkfAhSLyqB1ZgmMcY2pZ%2FnOb
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="1080P-HLS",CCTV4 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sp%2B2EIVt6%2FnJAyhsjbuJuZKg7ETNhW92hkrZwd77E6Iz
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="1080P-HLS",CCTV5 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Ss%2BabVAuYsy%2FZUN8sq9Mui54rchTv9%2BIRy%2BByC39pZ3v
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="1080P-HLS",CCTV5+ [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sp4x3ZVhpAE%2BHYVoOre4Tuu0jUzb8pYLfiKHjWCP9nst
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="1080P-HLS",CCTV6 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9StWETEWWTujl5tT30eE1ER4I8zP%2BurxZGvkVUCBQr3Wo
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="1080P-HLS",CCTV7 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-7-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SncR45O85wfH5EVOWYAKEZ%2BXPywDfCUdlSxB6hrkgTW%2F
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="1080P-HLS",CCTV8 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SpNQo7n4tPx0gBs5Ut0kUbpzy4KdEbiQqXg4cTwIf3%2B4
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="1080P-HLS",CCTV9 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-9-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9So2H%2BOxc4QJ5GwWzGwRp3hfsv5zo8wRslqJ6vA84AHA%2B
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="1080P-HLS",CCTV10 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-10-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9ShD76M5563d32%2B4M3ZvKDu8AGDktbyHWznnrJ4enWNT0
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="1080P-HLS",CCTV11 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-11-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SnRb6kIQ8sW1i%2FITI6R0%2BF1f4rBJuGcjqGyMw3O5YU0x
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="1080P-HLS",CCTV12 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-12-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Si5NeAyUYdMjBuNTrA7kR5belq3U11khiRn5EzyQwiEe
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="1080P-HLS",CCTV13 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-13-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9StYIyx80EUh0g4KLWWiVzKd6K46hwRnVOOdP%2BReyLaXG
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="1080P-HLS",CCTV14 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-14-HD.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SlnHLMqm%2BSWqVjnu361XiXXqa2j6ogKB1Nc2LSwTFb4p
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="1080P-HLS",CCTV15 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-15-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SgbtJbNyyK129GlPJlCj%2FP093AdMuX38Il2UM4RmCNSH
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="1080P-HLS",CCTV16 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9SqE1QZemd1IocZlOWvZ4lkJS6gYHhVCEByt4n4vKwJ4v
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="1080P-HLS",CCTV17 [HLS]
+http://122.96.52.98:8006/JS_CUCC/G_CCTV-17-HQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sr30Ana1I1MrealIg8GyDHWrmks93mJ9hj7a7HrvS8Z7
