@@ -457,16 +457,14 @@ http://112.86.202.37:8112/JSBC_iptv/C10000434@JSBC
 #线路2 · [高清源·1080P-RTSP] 山东教育卫视HD · 153.36.255.37:554 · C10000434@JSBC
 rtsp://153.36.255.37:554/JSBC_iptv/C10000434@JSBC
 #EXTINF:-1 tvg-id="113" tvg-name="北京卫视" group-title="卫视频道",北京卫视
-#线路1 · [高清源·1080P-RTSP] 北京卫视HD · 153.36.255.37:554 · C10000046@JSBC
-rtsp://153.36.255.37:554/JSBC_iptv/C10000046@JSBC
-#线路2 · [高清源·1080P-HLS] 北京卫视 [HLS] · 122.96.52.98:8006 · G_BEIJING-CQ.m3u8
+#线路1 · [高清源·1080P-HLS] 北京卫视 [HLS] · 122.96.52.98:8006 · G_BEIJING-CQ.m3u8
 http://122.96.52.98:8006/JS_CUCC/G_BEIJING-CQ.m3u8?Authinfo=EE2elEX03WlTGwUeLWb9Sp3aGI6wBIFH3eRu0uzUQZKTlJlmf6tbq%2F5x83RYQXML
+#线路2 · [高清源·1080P-RTSP] 北京卫视HD · 153.36.255.37:554 · C10000046@JSBC
+rtsp://153.36.255.37:554/JSBC_iptv/C10000046@JSBC
 #EXTINF:-1 tvg-id="349" tvg-name="江苏新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏新闻.png" group-title="江苏节目",江苏新闻
-#线路1 · 112.86.202.37:8112 · C10000440@JSBC
-http://112.86.202.37:8112/JSBC_iptv/C10000440@JSBC
-#线路2 · 112.86.202.37:8112 · C10000229@JSBC
+#线路1 · 112.86.202.37:8112 · C10000229@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000229@JSBC
-#线路3 · [高清源·1080P-RTSP] 江苏新闻HD · 153.36.255.37:554 · C10000229@JSBC
+#线路2 · [高清源·1080P-RTSP] 江苏新闻HD · 153.36.255.37:554 · C10000229@JSBC
 rtsp://153.36.255.37:554/JSBC_iptv/C10000229@JSBC
 #EXTINF:-1 tvg-id="344" tvg-name="江苏城市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/江苏城市.png" group-title="江苏节目",江苏城市
 #线路1 · 112.86.202.37:8112 · C10000224@JSBC
